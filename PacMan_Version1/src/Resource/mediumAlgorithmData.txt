@@ -1,0 +1,17 @@
+3 5
+Chase
+GreedySearch
+ChaseAggressive
+ChaseAmbush
+ChasePatrol
+ChaseRandom
+ChaseAggressive
+Scatter
+GreedySearch
+ScatterTopRightCorner
+ScatterTopLeftCorner
+ScatterBottomRightCorner
+ScatterBottomLeftCorner
+ScatterTopRightCorner
+Frightened
+RandomSearch
